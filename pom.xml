@@ -4,7 +4,7 @@
   <artifactId>jpa_sesion02x</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>ciberfarma01</name>
-  <description>jpa con maven</description>
+  <description>jpa con maven integrado conGIT</description>
   
  <dependencies>
   	<dependency>
